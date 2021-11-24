@@ -1,6 +1,6 @@
 <h1 align="center">Hello there👋</h1>
 <p align="center">
-I'm Sabyna, currently an undergraduate student of Computer Science at Universitas Indonesia. I am interested in programming especially web development and multi-platform app development.
+I'm Sabyna, currently an undergraduate student of Computer Science at Universitas Indonesia. I am interested in programming especially web development, mobile app development, and multi-platform app development.
 </p>
 
 <p align="center">
