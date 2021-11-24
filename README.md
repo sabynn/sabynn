@@ -12,3 +12,8 @@ I'm Sabyna, currently an undergraduate student of Computer Science at Universita
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sabynn&count_private=true&show_icons=true&theme=nord" alt="sabynn's top languages"/>
   </a>
 </p>
+
+<h4 align="center">
+This page is under construction.🚧
+Wait for another updates and learn more about me!😄
+</h4>
